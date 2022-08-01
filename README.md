@@ -3,6 +3,6 @@
     <img src="https://gateway.ifthenpay.com/assets/images/ifthenpay_logo.png" alt="Logo">
   </a>
 
-  <h3>Configuração Plugin Moodle</h3>
+  <h3>Ficheiros de instalação e configuração do Plugin para o Moodle</h3>
   <br>
 </div>
